@@ -1751,7 +1751,7 @@ ul {
     border-radius: 0px 19px 19px 0px; }
 
 .nav-style-01 .nav-container .navbar-collapse .navbar-nav li a {
-  color: #000;
+  color: #f0e9e9;
   -webkit-transition: all .3s;
   -o-transition: all .3s;
   transition: all .3s; }
@@ -6487,7 +6487,7 @@ ul.filter-main-nav > li:hover > a {
   background: #54CABF !important; }
 
 .footer-area {
-  background: #F5F5F5; }
+  background: black; }
   .footer-area .footer-top .widget {
     margin-bottom: 30px; }
     .footer-area .footer-top .widget .widget-title {
